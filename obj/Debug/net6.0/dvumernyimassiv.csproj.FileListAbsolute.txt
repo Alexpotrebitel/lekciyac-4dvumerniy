@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\bin\Debug\net6.0\dvumernyimassiv.exe
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\bin\Debug\net6.0\dvumernyimassiv.deps.json
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\bin\Debug\net6.0\dvumernyimassiv.runtimeconfig.json
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\bin\Debug\net6.0\dvumernyimassiv.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\bin\Debug\net6.0\dvumernyimassiv.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.AssemblyInfo.cs
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\refint\dvumernyimassiv.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\dvumernyimassiv.genruntimeconfig.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\dvumernyimassiv\obj\Debug\net6.0\ref\dvumernyimassiv.dll
